@@ -1,2 +1,2 @@
-# origamid-vuejs-ranek
-Origamid Vue.js Ranek
+# Origamid Vue.js Ranek
+
